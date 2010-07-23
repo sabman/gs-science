@@ -1,0 +1,5 @@
+*.pyc
+OWSLib-0.3.1-py2.6.egg
+OWSLib/owslib/coverage/*.pyc
+OWSLib/owslib/feature/*.pyc
+OWSLib/owslib/*.pyc
