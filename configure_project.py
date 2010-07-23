@@ -90,7 +90,7 @@ def setup_environment():
     
 if __name__ == '__main__':
 
-    install_ubuntu_packages()
-    setup_environment()
+    # install_ubuntu_packages()
+    # setup_environment()
 
 
